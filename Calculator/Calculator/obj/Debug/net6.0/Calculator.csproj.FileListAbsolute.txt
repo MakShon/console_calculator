@@ -1,0 +1,15 @@
+M:\Maks\Study\Нова папка\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+M:\Maks\Study\Нова папка\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+M:\Maks\Study\Нова папка\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+M:\Maks\Study\Нова папка\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+M:\Maks\Study\Нова папка\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+M:\Maks\Study\Нова папка\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+M:\Maks\Study\Нова папка\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+M:\Maks\Study\Нова папка\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+M:\Maks\Study\Нова папка\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+M:\Maks\Study\Нова папка\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+M:\Maks\Study\Нова папка\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+M:\Maks\Study\Нова папка\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+M:\Maks\Study\Нова папка\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+M:\Maks\Study\Нова папка\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+M:\Maks\Study\Нова папка\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
