@@ -16,7 +16,7 @@ class Calculator
         double first, second, equal;
         string function;
 
-        Console.WriteLine("!!!КАЛЬКУЛЯТОР!!!  by MakRan");
+        Console.WriteLine("КАЛЬКУЛЯТОР by MakRan");
         Console.Write("Для того щоб почати калькулювати введіть 1, щоб вийти введіть 0: ");
         start = Convert.ToInt32(Console.ReadLine());
 
